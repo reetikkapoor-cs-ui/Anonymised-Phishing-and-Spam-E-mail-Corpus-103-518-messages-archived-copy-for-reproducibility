@@ -1,6 +1,5 @@
 # Anonymised Phishing and Spam E-mail Corpus (103,518 messages)
 
-Archived copy of a publicly available, anonymised e-mail corpus, deposited for reproducibility of the study *"When Does Input-Conditional Fusion Pay Off? Pool Strength, Locality and Equivalence in Phishing-Detection Ensembles"* (R. Kapoor, 2026).
 
 ## Provenance
 
